@@ -1,0 +1,7 @@
+Project Name: Inventory Management System
+Leader name: Shahryar Ahmed (B16158081)
+Members Detail:
+		1)Ayesha Saleem (B16158019)
+		2)Muhammad Waqas (B16158062)
+		3)Syeda Fatima Rida (B16158097)
+
